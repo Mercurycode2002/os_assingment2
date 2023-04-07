@@ -1,0 +1,11 @@
+Question 3:
+Part B: 
+  Preemptive SJF has the smallest average time as well as the fastest completion time for short jobs. In our example,
+  our assembly lines will be able to rapidly produce items with a short or moderate production time. This will, on average,
+  decrease the production time of items with a longer production time. Thus significantly reducing the starvation period of the items with a longer production time.
+  The coding is that each production line has its own ready queue, which means that each assembly line can pick the item with the shortest time. We can also have 
+  a single ready queue for all the assembly lines as well as a load balancer to improve efficiency.
+Part D: 
+  //question was not clear
+  the priority algorithm allows the doctor to priorotize patients with major and serious injuries. this may cause patients with a non lethal or non life threating 
+  injuries to have wait for a longer period of time.
